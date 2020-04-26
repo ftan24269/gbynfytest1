@@ -1,5 +1,4 @@
 backend:
-  backend:
     name: github
     repo: ftan24269/gbynfytest1
 
