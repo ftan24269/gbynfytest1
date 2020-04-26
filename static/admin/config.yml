@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  backend:
+    name: github
+    repo: ftan24269/gbynfytest1
 
 media_folder: static/assets
 public_folder: assets
