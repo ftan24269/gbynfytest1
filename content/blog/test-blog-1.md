@@ -7,3 +7,5 @@ description: This is the desc for test blog1
 ## Header for Test Blog 1
 
 Some updated text
+
+![](assets/fake-news.jpg)
